@@ -29,8 +29,4 @@ Based on historical seasonality, stronger performance is expected in the second 
 
 ## Data Limitations
 - 2005 contains only partial data (first 5 months)  
-- Some conclusions are based on comparison with full-year data from 2003–2004  
-
-## Files
-- `sales_data_cleaned.xlsx` – cleaned dataset and analysis  
-- `dashboard.png` – visual dashboard  
+- Some conclusions are based on comparison with full-year data from 2003–2004   
