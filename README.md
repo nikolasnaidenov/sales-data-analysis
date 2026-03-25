@@ -18,7 +18,7 @@ This project analyzes sales data to identify key revenue drivers, customer behav
 - Customer base is well-diversified, with the top client contributing ~6% of total revenue  
 
 ## Assumption
-Based on historical seasonality, stronger performance is expected in the second half of 2005. However, due to missing Q3–Q4 data, this should be treated as an assumption rather than a confirmed trend.
+Based on historical seasonality, stronger performance is expected in the second half of 2005. However, due to missing data, this should be treated as an assumption rather than a confirmed trend.
 
 ## Analysis Areas
 - Revenue trends over time  
@@ -28,7 +28,7 @@ Based on historical seasonality, stronger performance is expected in the second 
 - Order size (Small / Medium / Large) impact  
 
 ## Data Limitations
-- 2005 contains only partial data (Q1–Q2)  
+- 2005 contains only partial data (first 5 months)  
 - Some conclusions are based on comparison with full-year data from 2003–2004  
 
 ## Files
